@@ -9,5 +9,3 @@ https://enigmatic-atoll-05809.herokuapp.com/
 ## Mock-Up
 
 ![Screen Shot](images/Budget%20Tracker.jpg)
-
-
